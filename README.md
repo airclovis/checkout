@@ -1,3 +1,5 @@
+RANDOM CHANGE
+
 [![Build and Test](https://github.com/actions/checkout/actions/workflows/test.yml/badge.svg)](https://github.com/actions/checkout/actions/workflows/test.yml)
 
 # Checkout v6
@@ -28,7 +30,7 @@ When Git 2.18 or higher is not in your PATH, falls back to the REST API to downl
 
 ### Note
 
-Thank you for your interest in this GitHub action, however, right now we are not taking contributions. 
+Thank you for your interest in this GitHub action, however, right now we are not taking contributions.
 
 We continue to focus our resources on strategic areas that help our customers be successful while making developers' lives easier. While GitHub Actions remains a key part of this vision, we are allocating resources towards other areas of Actions and are not taking contributions to this repository at this time. The GitHub public roadmap is the best place to follow along for any updates on features we’re working on and what stage they’re in.
 
